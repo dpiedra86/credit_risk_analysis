@@ -1,6 +1,6 @@
 # credit_risk_analysis
 
-#Overview 
+# Overview 
 
 The purpose of this project is to give us an introduction on machinelearning. 
 It has proven to be quite a challenge since the very start. 
