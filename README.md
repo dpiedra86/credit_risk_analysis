@@ -32,7 +32,9 @@ The balancing is achieved by random under-sampling.
 ![Easy](https://github.com/dpiedra86/credit_risk_analysis/blob/main/Resources/Easy.png)
 
 ## Summary
+
 The results proved to be quite similar with  in the the Sampling models.
+
 The results proved to be more accurate in the ensemble models. 
 
 
